@@ -43,6 +43,7 @@ Welcome to the Multi-Page RAG Model App! This app allows you to interact with di
 If you have any questions or feedback, please feel free to reach out:
 - [LinkedIn](https://www.linkedin.com/in/noor-ahmad-haral-ml-engineer/)
 - [GitHub](https://github.com/noor-ahmad-haral)
+- [LiveAppAt](https://multi-page-rag-model-app.streamlit.app/)
 
 ## ⚙️ Installation
 
